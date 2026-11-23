@@ -1,0 +1,5 @@
+name: "leone_lens"
+title: "Leone Lens — Oracle AI Advisor"
+description: "Validate and guide any Oracle Fusion AI build (Agent Studio, agentic applications, Fusion Claw, FSCR) with the Chris Leone process: outcome first, proven data path, envelope before autonomy, receipt for every run, tests and evals before done."
+category: "Work and knowledge"
+include_in_prompt: true
